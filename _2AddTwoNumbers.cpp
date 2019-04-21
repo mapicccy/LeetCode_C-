@@ -41,7 +41,7 @@ public:
         return dummy->next;
     }
 };
-
+/*
 int main(int argc, char *argv[])
 {
     ListNode *l1 = new ListNode(2), *l2 = new ListNode(5);
@@ -56,4 +56,4 @@ int main(int argc, char *argv[])
     ret = item->addTwoNumbers(l1, l2);
 
     cout << "ret: " << ret->val << ret->next->val << ret->next->next->val << endl;
-}
+}*/
