@@ -22,9 +22,9 @@ public:
         return (x == sum) || (x == sum / 10);
     }
 };
-/*
+
 int main(int argc, char *argv[])
 {
     auto *item = new _9PalindromeNumber;
     cout << "ret: " << item->isPalindrome(22522) << endl;
-}*/
+}
