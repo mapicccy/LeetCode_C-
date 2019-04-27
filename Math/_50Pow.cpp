@@ -27,9 +27,9 @@ public:
         return ret;
     }
 };
-
+/*
 int main(int argc, char **argv)
 {
     auto *item = new _50Pow;
     cout << "ret: " << item->myPow(1.0, -2147483648) << endl;
-}
+}*/
