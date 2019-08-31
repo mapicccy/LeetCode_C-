@@ -18,7 +18,7 @@ public:
         return ret;
     }
 };
-
+/*
 int main(int argc, char* argv[]) {
     auto item = new _136SingleNumber();
     vector<int> nums;
@@ -30,4 +30,4 @@ int main(int argc, char* argv[]) {
     int ret = item->singleNumber(nums);
 
     cout << "ret is " << ret;
-}
+}*/
