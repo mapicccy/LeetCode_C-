@@ -35,7 +35,7 @@ public:
         return ret2;
     }
 };
-
+/*
 int main(int argc, char *argv[]) {
     auto item = new _94BinaryTreeInorderTraversal();
     TreeNode *root = new TreeNode(1);
@@ -45,4 +45,4 @@ int main(int argc, char *argv[]) {
     for (int i = 0; i < ret.size(); ++i) {
         cout << ret.at(i) << endl;
     }
-}
+}*/
