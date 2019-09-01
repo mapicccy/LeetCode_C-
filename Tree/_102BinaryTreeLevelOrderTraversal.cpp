@@ -6,7 +6,7 @@
 #include <queue>
 #include "treenode.h"
 
-class Solution {
+class _102BinaryTreeLevelOrderTraversal {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> ret;
