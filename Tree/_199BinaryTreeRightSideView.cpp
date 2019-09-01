@@ -5,7 +5,7 @@
 #include <queue>
 #include "treenode.h"
 
-class Solution {
+class _199BinaryTreeRightSideView {
 public:
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ret;
